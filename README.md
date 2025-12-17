@@ -1,6 +1,20 @@
 # My Cybersecurity Learning Journey 🛡️
 
 This repository documents my hands-on labs, projects, and milestones as I complete the **Google Cybersecurity Professional Certificate**.
+# My Cybersecurity Portfolio
+
+Hi, I'm Ahmed! 👋
+I am a healthcare professional transitioning into Cybersecurity. I am currently completing the **Google Cybersecurity Professional Certificate** to build a strong foundation in security operations, Linux, and automation.
+
+My goal is to combine my analytical background in healthcare with technical security skills to work as a Security Analyst.
+
+---
+
+## 📚 Certifications & Training
+* **Google Cybersecurity Professional Certificate** (In Progress)
+* **Foundations of Cybersecurity** (Completed)
+
+---
 
 ## Project 1: Windows Automation with PowerShell
 **Date:** December 2025  
