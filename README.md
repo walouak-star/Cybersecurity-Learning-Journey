@@ -22,6 +22,3 @@ I utilized a PowerShell script to automate the account creation:
 $NewUser = Read-Host "Enter username"
 New-LocalUser -Name $NewUser -Description "Created by Automation" -NoPassword
 Add-LocalGroupMember -Group "Users" -Member $NewUser
-
-### Proof of Success
-![Evidence of Success](Windows Automation with PowerShell.png)
