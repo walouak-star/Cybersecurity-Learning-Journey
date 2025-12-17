@@ -24,4 +24,4 @@ New-LocalUser -Name $NewUser -Description "Created by Automation" -NoPassword
 Add-LocalGroupMember -Group "Users" -Member $NewUser
 
 ### Proof of Success
-![Evidence of Success](image_2025-12-17_031012819.png)
+![Evidence of Success](Windows Automation with PowerShell.png)
